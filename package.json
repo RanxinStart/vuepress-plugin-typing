@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-plugin-typing",
+  "version": "0.1.2",
+  "description": "VuePress plugin for typing",
+  "keywords": [
+    "vuepress",
+    "plugin",
+    "typing"
+  ],
+  "main": "lib/index.js",
+  "author": "@Ranxin",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "typed.js": "2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RanxinStart"
+  }
+}
