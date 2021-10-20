@@ -1,11 +1,14 @@
 {
   "name": "vuepress-plugin-typing",
-  "version": "0.1.2",
+  "version": "1.0.2",
   "description": "VuePress plugin for typing",
   "keywords": [
     "vuepress",
     "plugin",
-    "typing"
+    "typing",
+    "type",
+    "animition",
+    "typist"
   ],
   "main": "lib/index.js",
   "author": "@Ranxin",
@@ -21,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RanxinStart"
+    "url": "https://github.com/RanxinStart/vuepress-plugin-typing"
   }
 }

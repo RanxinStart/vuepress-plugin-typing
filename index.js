@@ -13,7 +13,5 @@ module.exports = (pluginOptions, context) => ({
         GLOBAL_PLUGIN_TYPED_OPTION: pluginOptions,
     },
     name: 'vuepress-plugin-typing',
-    enhanceAppFiles:[
-        path.resolve(__dirname, 'lib/enhanceApp.js'),
-    ],
+    clientRootMixin:path.resolve(__dirname, 'lib/clientRootMixin.js')
 })
