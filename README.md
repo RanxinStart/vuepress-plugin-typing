@@ -6,6 +6,8 @@
 
 # vuePress打字效果插件
 
+![效果](https://img.ffis.me/images/2021/10/20/typed.gif)
+
 ## 快速开始
 
 ### 使用`npm`安装
