@@ -27,7 +27,7 @@ $ yarn add vuepress-plugin-typing
 > 基础使用方法
 
 ```js
-// cinfig.js  
+// config.js  
  plugins: [
     ['typing',{
       // 对应的标签选择器
@@ -45,7 +45,7 @@ $ yarn add vuepress-plugin-typing
 > 键入多个配置
 
 ```js
-// cinfig.js
+// config.js
  plugins: [
     ['typing',[{
       // 对应的标签选择器
